@@ -1,0 +1,15 @@
+.env
+backend/.venv/
+data/raw/
+data/chroma/
+data/app.db
+data/vectors.sqlite3*
+data/places.json
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+data/app.db-*
+.pytest_cache/
+frontend/test-results/
+frontend/playwright-report/
